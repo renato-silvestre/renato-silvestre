@@ -13,4 +13,10 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+- <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=renato-silvestre&layout=compact&langs_count=7&theme=dracula"/>
 -->
+<div>
+  <a href="https://github.com/renato-silvestre">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=renato-silvestre&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+</div>
